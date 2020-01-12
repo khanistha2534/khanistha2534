@@ -1,2 +1,6 @@
-# khanistha2534
-Toy
+appdelegate.swift:
+
+import FacebookCore
+
+AppEventsLogger.activate(application)
+	
